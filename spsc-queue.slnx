@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="spsc-queue/spsc-queue.vcxproj" />
+  <Project Path="spsc-queue/spsc-queue.vcxproj" Id="e64e8c9a-5686-4519-85ed-d187968d052a" />
 </Solution>
